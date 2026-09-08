@@ -1,0 +1,6 @@
+{
+  "name": "AD OS",
+  "description": "A retro desktop PC styled portfolio website with interactive windows and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
